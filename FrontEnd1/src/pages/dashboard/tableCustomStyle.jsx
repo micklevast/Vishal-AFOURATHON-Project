@@ -1,0 +1,4 @@
+const tableCustomStyles = {
+   
+  }
+export { tableCustomStyles };
